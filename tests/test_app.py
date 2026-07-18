@@ -1,4 +1,4 @@
-"""Tests for GitFlow Portfolio app"""
+"""Tests for Cloud Automation Pipeline"""
 from src.app import greet, add, get_status
 
 def test_greet_returns_correct_message():

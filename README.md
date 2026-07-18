@@ -1,6 +1,6 @@
-# 🔀 GitFlow Portfolio
+# 🔀 Cloud Automation Pipeline
 
-![CI Pipeline](https://github.com/YOURUSERNAME/gitflow-portfolio/actions/workflows/ci.yml/badge.svg)
+![CI Pipeline](https://github.com/Nazneen@28/g/cloud-automation-pipeline/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -25,7 +25,7 @@ A demonstration of professional Git workflow, CI/CD automation, and branch strat
 ## 📁 Project Structure
 
 ```
-gitflow-portfolio/
+cloud-automation-pipeline/
 ├── .github/
 │   └── workflows/
 │       └── ci.yml        # GitHub Actions CI pipeline
@@ -40,8 +40,8 @@ gitflow-portfolio/
 ## 🚀 Setup
 
 ```bash
-git clone https://github.com/YOURUSERNAME/gitflow-portfolio.git
-cd gitflow-portfolio
+git clone https://github.com/Nazneen@28/cloud-automation-pipeline.git
+cd cloud-automation-pipeline
 pip install pytest flake8
 pytest tests/ -v
 ```

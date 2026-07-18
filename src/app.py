@@ -1,5 +1,5 @@
 """
-GitFlow Portfolio — Demo App
+Cloud Automation Pipeline
 Author: Nazneen
 Phase 1 | Week 4 | Cloud Engineering Roadmap
 """
@@ -12,10 +12,11 @@ def add(a: int, b: int) -> int:
 
 def get_status() -> dict:
     return {
-        "project": "GitFlow Portfolio",
+        "project": "Cloud Automation Pipeline",
         "author": "Nazneen",
-        "phase": "Phase 1 - Foundations",
-        "week": "Week 4 - Git & GitHub",
+        "phase": "Phase 1 - Cloud Foundations",
+        "week": "Week 4 - Git & CI/CD",
+       
         "status": "active"
     }
 
